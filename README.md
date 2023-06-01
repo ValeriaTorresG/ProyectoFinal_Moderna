@@ -2,4 +2,4 @@
 
 ## Agujeros negros, quásars, pulsars y blazars.
 
-### Valeria Torres Gomez - 202110363
+Valeria Torres Gomez - 202110363
